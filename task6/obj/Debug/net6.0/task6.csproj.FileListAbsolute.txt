@@ -1,0 +1,15 @@
+/home/minim/Документы/C#/hw1/task6/bin/Debug/net6.0/task6
+/home/minim/Документы/C#/hw1/task6/bin/Debug/net6.0/task6.deps.json
+/home/minim/Документы/C#/hw1/task6/bin/Debug/net6.0/task6.runtimeconfig.json
+/home/minim/Документы/C#/hw1/task6/bin/Debug/net6.0/task6.dll
+/home/minim/Документы/C#/hw1/task6/bin/Debug/net6.0/task6.pdb
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/task6.csproj.AssemblyReference.cache
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/task6.GeneratedMSBuildEditorConfig.editorconfig
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/task6.AssemblyInfoInputs.cache
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/task6.AssemblyInfo.cs
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/task6.csproj.CoreCompileInputs.cache
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/task6.dll
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/refint/task6.dll
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/task6.pdb
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/task6.genruntimeconfig.cache
+/home/minim/Документы/C#/hw1/task6/obj/Debug/net6.0/ref/task6.dll
